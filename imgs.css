@@ -1,0 +1,806 @@
+.container .cards .imgs1 {
+    background: url(./imgs/ABELLA-DANGER.jpg);
+}
+.container .cards .imgs2 {
+    background: url(./imgs/adel-morel.jpg);
+}
+.container .cards .imgs3 {
+    background: url(./imgs/ALAINA-DAWSON.jpg);
+}
+.container .cards .col-4 {
+    background: red;
+}
+.container .cards .imgs4 {
+    background: url(./imgs/alecia-fox.png);
+    background-position: center !important;
+}
+.container .cards .imgs5 {
+    background: url(./imgs/ALEX-GREY.jpg);
+}
+.container .cards .imgs6 {
+    background: url(./imgs/alex-mae.jpg);
+}
+.container .cards .imgs7 {
+    background: url(./imgs/alex-more1.jpg);
+}
+
+.container .cards .col-8 {
+    background: #45b5ff;
+}
+.container .cards .imgs8 {
+    background: url(./imgs/ALEXA-GRACE2.jpg);
+}
+.container .cards .imgs9 {
+    background: url(./imgs/alisa-amore.jpg);
+}
+.container .cards .imgs10 {
+    background: url(./imgs/ALLI-RAE.jpg);
+    background-position-y: center !important;
+}
+.container .cards .imgs11 {
+    background: url(./imgs/amanda-lane.jpg);
+}
+.container .cards .imgs12 {
+    background: url(./imgs/amarna-miller2.jpg);
+}
+
+.container .cards .col-13 {
+    background: rgb(205, 131, 255);
+}
+.container .cards .imgs13 {
+    background: url(./imgs/ANNA-DE-VILLE.jpg);
+}
+.container .cards .imgs14 {
+    background: url(./imgs/anya-krey2.jpg);
+}
+.container .cards .imgs15 {
+    background: url(./imgs/anya-olsen1.jpg);
+}
+.container .cards .imgs16 {
+    background: url(./imgs/ashley-lane1.jpg);
+}
+.container .cards .imgs17 {
+    background: url(./imgs/aspen-ora2.jpg);
+}
+.container .cards .imgs18 {
+    background: url(./imgs/aubrey-snow.jpg);
+}
+.container .cards .imgs19 {
+    background: url(./imgs/AUGUST-AMES1.jpg);
+}
+.container .cards .imgs20 {
+    background: url(./imgs/ava-taylor.jpg);
+}
+
+.container .cards .imgs21 {
+    background: url(./imgs/bella-rose2.jpg);
+}
+.container .cards .imgs22 {
+    background: url(./imgs/BLAIRE-IVORY2.jpg);
+}
+.container .cards .imgs23 {
+    background: url(./imgs/brett-rossi1.jpg);
+}
+.container .cards .imgs24 {
+    background: url(./imgs/bunny-colby1.jpg);
+}
+.container .cards .imgs25 {
+    background: url(./imgs/cadence-lux1.jpg);
+}
+.container .cards .imgs26 {
+    background: url(./imgs/carolina-sweet1.jpg);
+}
+
+.container .cards .col-27 {
+    background: rgb(255, 40, 40);
+}
+.container .cards .imgs27 {
+    background: url(./imgs/casey-calvert.png);
+}
+
+.container .cards .col-28 {
+    background: rgb(255, 40, 40);
+}
+.container .cards .imgs28 {
+    background: url(./imgs/charity-crawford.jpg);
+}
+.container .cards .imgs29 {
+    background: url(./imgs/chloe-blue3.jpg);
+}
+.container .cards .imgs30 {
+    background: url(./imgs/dahlia-sky2.jpg);
+}
+
+.container .cards .imgs31 {
+    background: url(./imgs/DAISY-STONE1.jpg);
+}
+
+/* .container .cards .col-32 {
+    background: rgb(54, 255, 71);
+} */
+.container .cards .imgs32 {
+    background: url(./imgs/dani-daniels.jpg);
+}
+.container .cards .col-33 {
+    background: rgb(54, 255, 71);
+}
+.container .cards .imgs33 {
+    background: url(./imgs/danni-rivers.png);
+}
+.container .cards .col-34 {
+    background: rgb(54, 232, 255);
+}
+.container .cards .imgs34 {
+    background: url(./imgs/elena-koshka.png);
+}
+.container .cards .imgs35 {
+    background: url(./imgs/ellie-eilish3.jpg);
+}
+.container .cards .imgs36 {
+    background: url(./imgs/ellie-leen1.jpg);
+}
+
+/* .container .cards .col-37 {
+    background: rgb(54, 232, 255);
+} */
+.container .cards .imgs37 {
+    background: url(./imgs/elsa-jean.jpg);
+    background-position: center !important;
+}
+.container .cards .col-38 {
+    background: rgb(54, 101, 255);
+}
+.container .cards .imgs38 {
+    background: url(./imgs/emily-willis1.png);
+}
+
+.container .cards .col-39 {
+    background: hotpink;
+}
+.container .cards .imgs39 {
+    background: url(./imgs/eva-elfie2.jpg);
+}
+
+.container .cards .col-40 {
+    background: rgb(211, 243, 69);
+}
+.container .cards .imgs40 {
+    background: url(./imgs/evelyn-claire.png);
+}
+
+.container .cards .imgs41 {
+    background: url(./imgs/gabbie-carter1.jpg);
+}
+
+.container .cards .col-42 {
+    background: rgb(205, 131, 255);
+}
+.container .cards .imgs42 {
+    background: url(./imgs/georgia-jones.png);
+}
+.container .cards .imgs43 {
+    background: url(./imgs/gia-paige3.jpg);
+}
+.container .cards .col-47 {
+    background: rgb(205, 131, 255);
+}
+.container .cards .imgs44 {
+    background: url(./imgs/gina-valentina1.jpg);
+}
+.container .cards .col-45 {
+    background: rgb(153, 0, 255);
+}
+.container .cards .imgs45 {
+    background: url(./imgs/gloria-sol.png);
+}
+.container .cards .imgs46 {
+    background: url(./imgs/goldie-baby1.jpg);
+}
+
+.container .cards .col-47 {
+    background: rgb(19, 6, 206);
+}
+.container .cards .imgs47 {
+    background: url(./imgs/haley-reed.png);
+}
+.container .cards .col-48 {
+    background: rgb(145, 19, 128);
+}
+.container .cards .imgs48 {
+    background: url(./imgs/ivy-aura.png);
+}
+.container .cards .imgs49 {
+    background: url(./imgs/ivy-wolfe1.jpg);
+}
+.container .cards .imgs50 {
+    background: url(./imgs/izzy-lush4.jpg);
+}
+.container .cards .col-51 {
+    background: rgb(200, 255, 0);
+}
+.container .cards .imgs51 {
+    background: url(./imgs/jane-wilde.png);
+}
+.container .cards .col-52 {
+    background: rgb(200, 255, 0);
+}
+.container .cards .imgs52 {
+    background: url(./imgs/janice-griffith1.jpg);
+}
+
+.container .cards .col-53 {
+    background: rgb(255, 187, 0);
+}
+.container .cards .imgs53 {
+    background: url(./imgs/jaye-summers.png);
+}
+.container .cards .imgs54 {
+    background: url(./imgs/Jennifer-white1.jpg);
+}
+
+.container .cards .col-55 {
+    background: rgb(72, 172, 33);
+}
+.container .cards .imgs55 {
+    background: url(./imgs/jia-lissa.png);
+}
+.container .cards .imgs56 {
+    background: url(./imgs/kristen-scott2.jpg);
+}
+.container .cards .imgs57 {
+    background: url(./imgs/ALEX-GREY.jpg);
+}
+.container .cards .imgs58 {
+    background: url(./imgs/kristen-scott2.jpg);
+}
+.container .cards .imgs59 {
+    background: url(./imgs/alecia-fox.jpg);
+}
+.container .cards .imgs60 {
+    background: url(./imgs/ALEX-GREY.jpg);
+}
+
+.container .cards .imgs61 {
+    background: url(./imgs/ABELLA-DANGER.jpg);
+}
+.container .cards .imgs62 {
+    background: url(./imgs/ABELLA-DANGER.jpg);
+}
+.container .cards .imgs63 {
+    background: url(./imgs/ALAINA-DAWSON.jpg);
+}
+
+.container .cards .col-64 {
+    background: rgb(255, 0, 55);
+}
+.container .cards .imgs64 {
+    background: url(./imgs/kendra-sunderland.png);
+}
+
+.container .cards .col-65 {
+    background: rgb(162, 2, 202);
+}
+.container .cards .imgs65 {
+    background: url(./imgs/kenna-james.png);
+}
+.container .cards .imgs66 {
+    background: url(./imgs/jillian-janson.jpg);
+}
+.container .cards .imgs67 {
+    background: url(./imgs/joseline-kelly8.jpg);
+}
+.container .cards .imgs68 {
+    background: url(./imgs/jynx-maze2.jpg);
+}
+
+.container .cards .col-69 {
+    background: rgb(0, 153, 255);
+}
+.container .cards .imgs69 {
+    background: url(./imgs/kyler-quinn.png);
+}
+.container .cards .imgs70 {
+    background: url(./imgs/ALEX-GREY.jpg);
+}
+
+.container .cards .imgs71 {
+    background: url(./imgs/kate-england1.jpg);
+}
+.container .cards .imgs72 {
+    background: url(./imgs/katie-summers1.jpg);
+}
+.container .cards .imgs73 {
+    background: url(./imgs/lexi-belle1.jpg);
+}
+
+.container .cards .col-74 {
+    background: rgb(255, 94, 0);
+}
+.container .cards .imgs74 {
+    background: url(./imgs/little-caprice.png);
+}
+
+.container .cards .col-75 {
+    background: rgb(255, 94, 0);
+}
+.container .cards .imgs75 {
+    background: url(./imgs/liya-silver.png);
+}
+.container .cards .imgs76 {
+    background: url(./imgs/alecia-fox.jpg);
+}
+.container .cards .imgs77 {
+    background: url(./imgs/ALEX-GREY.jpg);
+}
+.container .cards .imgs78 {
+    background: url(./imgs/ALEX-GREY.jpg);
+}
+.container .cards .imgs79 {
+    background: url(./imgs/alecia-fox.jpg);
+}
+
+.container .cards .col-80 {
+    background: rgb(17, 121, 86);
+}
+.container .cards .imgs80 {
+    background: url(./imgs/mila-azul.png);
+}
+
+.container .cards .imgs81 {
+    background: url(./imgs/nancy-ace1.jpg);
+}
+.container .cards .imgs82 {
+    background: url(./imgs/natalia-starr3.jpg);
+}
+
+.container .cards .col-83 {
+    background: rgb(167, 26, 91);
+}
+.container .cards .imgs83 {
+    background: url(./imgs/naomi-woods.png);
+}
+.container .cards .imgs84 {
+    background: url(./imgs/alecia-fox.jpg);
+}
+.container .cards .imgs85 {
+    background: url(./imgs/natalie-monroe1.jpg);
+}
+.container .cards .imgs86 {
+    background: url(./imgs/alecia-fox.jpg);
+}
+.container .cards .imgs87 {
+    background: url(./imgs/nicole-aniston3.jpg);
+}
+.container .cards .imgs88 {
+    background: url(./imgs/ALEX-GREY.jpg);
+}
+.container .cards .imgs89 {
+    background: url(./imgs/alecia-fox.jpg);
+}
+
+
+.container .cards .col-90 {
+    background: rgb(251, 255, 0);
+}
+.container .cards .imgs90 {
+    background: url(./imgs/ria-sunn.png);
+}
+
+.container .cards .imgs91 {
+    background: url(./imgs/ABELLA-DANGER.jpg);
+}
+.container .cards .imgs92 {
+    background: url(./imgs/sarah-shevon1.jpg);
+}
+.container .cards .imgs93 {
+    background: url(./imgs/sophia-leone1.jpg);
+}
+
+.container .cards .col-94 {
+    background: rgb(187, 1, 1);
+}
+.container .cards .imgs94 {
+    background: url(./imgs/stacy-cruz.png);
+}
+.container .cards .imgs95 {
+    background: url(./imgs/stoya2.jpg);
+}
+
+.container .cards .col-96 {
+    background: rgb(167, 0, 0);
+}
+.container .cards .imgs96 {
+    background: url(./imgs/sybil.png);
+}
+
+.container .cards .col-97 {
+    background: rgb(0, 1, 66);
+}
+.container .cards .imgs97 {
+    background: url(./imgs/ALEX-GREY.jpg);
+}
+
+.container .cards .col-98 {
+    background: rgb(0, 130, 139);
+}
+.container .cards .imgs98 {
+    background: url(./imgs/tiffany-tatum.png);
+}
+
+.container .cards .col-99 {
+    background: rgb(200, 255, 0);
+}
+.container .cards .imgs98 {
+    background: url(./imgs/tiffany-tatum.png);
+}
+
+.container .cards .col-99 {
+    background: rgb(19, 127, 170);
+}
+.container .cards .imgs99 {
+    background: url(./imgs/tori-black.png);
+}
+
+.container .cards .col-100 {
+    background: rgb(200, 255, 0);
+}
+.container .cards .imgs100 {
+    background: url(./imgs/uma-jolie.png);
+}
+
+.container .cards .col-101 {
+    background: #CB0000;
+}
+.container .cards .imgs101 {
+    background: url(./imgs/alicia-williams.png);
+}
+.container .cards .imgs102 {
+    background: url(./imgs/apolonia-lapiedra1.jpg);
+}
+.container .cards .imgs103 {
+    background: url(./imgs/alina-lopez.jpg);
+}
+.container .cards .imgs104 {
+    background: url(./imgs/agatha-vega2.jpg);
+}
+.container .cards .imgs105 {
+    background: url(./imgs/harmony-wonder2.jpg);
+}
+.container .cards .imgs106 {
+    background: url(./imgs/gia-derza2.jpg);
+}
+.container .cards .col-107 {
+    background: #ff941b;
+}
+.container .cards .imgs107 {
+    background: url(./imgs/lexi-lore.png);
+}
+.container .cards .imgs108 {
+    background: url(./imgs/hazel-moore1.jpg);
+}
+.container .cards .imgs109 {
+    background: url(./imgs/blake-eden6.jpg);
+}
+
+/* .container .cards .col-110 {
+    background: rgb(200, 255, 0);
+} */
+.container .cards .imgs110 {
+    background: url(./imgs/rachel-james.jpg);
+}
+.container .cards .imgs111 {
+    background: url(./imgs/charlotte-sartre1.jpg);
+}
+.container .cards .imgs112 {
+    background: url(./imgs/ABIGAIL-MAC.jpg);
+}
+.container .cards .imgs113 {
+    background: url(./imgs/ADDIE-ANDREWS.jpg);
+}
+.container .cards .imgs114 {
+    background: url(./imgs/ella-hughes1.jpg);
+}
+.container .cards .imgs115 {
+    background: url(./imgs/lacy-lennon12.jpg);
+    background-position: center !important;
+}
+.container .cards .imgs116 {
+    background: url(./imgs/ariana-marie.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs117 {
+    background: url(./imgs/vanna-bardot.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .col-118 {
+    background: rgb(200, 255, 0);
+}
+.container .cards .imgs118 {
+    background: url(./imgs/amelie-lou4.jpg);
+    background-position: center !important;
+}
+
+
+/* .container .cards .col-119 {
+    background: rgb(200, 255, 0);
+} */
+.container .cards .imgs119 {
+    background: url(./imgs/dolly-leigh.jpg);
+    background-position: center !important;
+}
+
+
+/* .container .cards .col-120 {
+    background: rgb(200, 255, 0);
+} */
+.container .cards .imgs120 {
+    background: url(./imgs/lika-star.jpg);
+    background-position: center !important;
+}
+.container .cards .imgs121 {
+    background: url(./imgs/freya-mayer.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs122 {
+    background: url(./imgs/avery-cristy.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs123 {
+    background: url(./imgs/alix-lynx.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs124 {
+    background: url(./imgs/blake-blossom.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs125 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs126 {
+    background: url(./imgs/lilly-bell.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs127 {
+    background: url(./imgs/sadie-blake.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs128 {
+    background: url(./imgs/scarlit-scandals.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs129 {
+    background: url(./imgs/ADELLE-UNICORN.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs130 {
+    background: url(./imgs/ADIRA-ALLURE.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs131 {
+    background: url(./imgs/ADIRA-FOX.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs132 {
+    background: url(./imgs/aubree-valentine.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs133 {
+    background: url(./imgs/geisha-kyd.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs134 {
+    background: url(./imgs/harmony-rivers.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs135 {
+    background: url(./imgs/zazie-skymm.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs136 {
+    background: url(./imgs/eden-ivy4.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs137 {
+    background: url(./imgs/Alex-blake.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs138 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs139 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs140 {
+    background: url(./imgs/chanel-preston8.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs141 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs142 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs143 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs144 {
+    background: url(./imgs/jamie-jett3.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs145 {
+    background: url(./imgs/veronica-leal.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs146 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs147 {
+    background: url(./imgs/katya-clover1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs148 {
+    background: url(./imgs/jane-rogers4.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs149 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs150 {
+    background: url(./imgs/Anastasia-knight5.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs151 {
+    background: url(./imgs/abby-rain6.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs152 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs153 {
+    background: url(./imgs/emelie-crystal1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs154 {
+    background: url(./imgs/molly-stewart3.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs155 {
+    background: url(./imgs/aria-lee1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs156 {
+    background: url(./imgs/melody-marks2.jpg);
+    /* background-position: center !important; */
+}
+.col-157{
+    background-color: #ff941b;
+}
+.container .cards .imgs157 {
+    background: url(./imgs/CHLOE-TEMPLE.png);
+    /* background-position: center !important; */
+}
+.container .cards .imgs158 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs159 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs160 {
+    background: url(./imgs/jessie-saint.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs161 {
+    background: url(./imgs/elena-vedem.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs162 {
+    background: url(./imgs/alyssa-bounty3.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs163 {
+    background: url(./imgs/alyssa-bounty3.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs164 {
+    background: url(./imgs/alyssa-bounty3.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs165 {
+    background: url(./imgs/alyssa-bounty3.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs166 {
+    background: url(./imgs/Alexis-tae1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs167 {
+    background: url(./imgs/Alex-Harper3.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs168 {
+    background: url(./imgs/jill-kassidy.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs169 {
+    background: url(./imgs/belle-claire2.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs170 {
+    background: url(./imgs/freya-parker.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs171 {
+    background: url(./imgs/gianna-dior3.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs172 {
+    background: url(./imgs/AJ-Applegate1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs173 {
+    background: url(./imgs/nata-paradise2.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs174 {
+    background: url(./imgs/stella-cox1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs175 {
+    background: url(./imgs/ariana-van-x1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs176 {
+    background: url(./imgs/ARIELA-DONOVAN1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs177 {
+    background: url(./imgs/BREE-DANIELS1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs178 {
+    background: url(./imgs/charly-summers1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs179 {
+    background: url(./imgs/chloe-toy3.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs180 {
+    background: url(./imgs/DANA-WOLF1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs181 {
+    background: url(./imgs/ELISABETTA-ZAFFIRO1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs182 {
+    background: url(./imgs/EVA-LOVIA1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs183 {
+    background: url(./imgs/EVELINE-DELLAI1.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs184 {
+    background: url(./imgs/cherry-kiss.jpg);
+    /* background-position: center !important; */
+}
+.container .cards .imgs185 {
+    background: url(./imgs/jewelz-blu1.jpg);
+    /* background-position: center !important; */
+}
+
+
+
+
